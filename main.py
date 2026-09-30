@@ -1,2 +1,4 @@
 print("Good Morning")
 print("Good Afternoon")
+print(5+5)
+print(8*2)
